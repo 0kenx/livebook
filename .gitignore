@@ -41,3 +41,7 @@ npm-debug.log
 /livebook
 
 /rel/app_next/resources
+
+# direnv
+.direnv/
+
